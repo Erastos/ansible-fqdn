@@ -1,3 +1,3 @@
 [submodule "examples"]
 	path = examples
-	url = ./examples
+	url = git@github.com:adithyakhamithkar/ansible-playbooks.git
